@@ -1,5 +1,5 @@
 # Tideman-election
-this is a program that implements Tideman voting system
+this is a program that implements Tideman voting system, it is a problem set from CS50’s Introduction to Computer Science.
 
 ## program description
 Tideman voting System is an example of a Ranked-prefrence voting system which mean that each voter instead of just voting 
